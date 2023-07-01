@@ -7,5 +7,5 @@ Three operating mode:
 - Center position mode
 - Auto mode (position automatically changes from minimum to maximum and vice versa)
 
-Input voltage: 4.5 - 5.5 volt
-PWM: 50 Hz, 1 - 2 ms
+Input voltage: 4.5 - 5.5 volt.
+PWM: 50 Hz, 1 - 2 ms.
